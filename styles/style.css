@@ -216,11 +216,12 @@ p {
 .attribution__paragraph {
   text-align: center;
   margin: 0;
+  color: var(--veryDarkBlue);
 }
 
 .attribution__front,
 .attribution__name {
   text-decoration: none;
-  color: var(--veryDarkBlue);
   font-weight: 600;
+  color: var(--blue);
 }
